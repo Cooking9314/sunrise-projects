@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "sunrise-fabric-26-2",
+  "name": "Sunrise Fabric",
+  "description": "Minecraft 26.2 с Fabric Loader 0.20.1. Готовая база для модов: добавьте нужные файлы в папку mods проекта или дополните документ проекта.",
+  "minecraft": "26.2",
+  "loader": {
+    "type": "fabric",
+    "version": "0.20.1"
+  },
+  "memoryMb": 6144,
+  "revision": "1",
+  "mods": []
+}

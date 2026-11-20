@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "sunrise-vanilla-26-2",
+  "name": "Sunrise Vanilla",
+  "description": "Чистая сборка Minecraft 26.2 без модов. Подходит для одиночной игры, ванильных серверов и как основа для собственных экспериментов.",
+  "minecraft": "26.2",
+  "loader": {
+    "type": "vanilla"
+  },
+  "memoryMb": 4096,
+  "revision": "1",
+  "mods": []
+}

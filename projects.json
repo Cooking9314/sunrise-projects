@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "projects": [
+    {
+      "id": "sunrise-vanilla-26-2",
+      "name": "Sunrise Vanilla",
+      "summary": "Чистая Minecraft 26.2 без модов — быстрый старт и стабильная производительность.",
+      "minecraft": "26.2",
+      "loader": {
+        "type": "vanilla"
+      },
+      "modCount": 0,
+      "document": "projects/sunrise-vanilla-26-2.json",
+      "revision": "1"
+    },
+    {
+      "id": "sunrise-fabric-26-2",
+      "name": "Sunrise Fabric",
+      "summary": "Minecraft 26.2 с Fabric Loader 0.20.1 — база для модов и оптимизаций.",
+      "minecraft": "26.2",
+      "loader": {
+        "type": "fabric",
+        "version": "0.20.1"
+      },
+      "modCount": 0,
+      "document": "projects/sunrise-fabric-26-2.json",
+      "revision": "1"
+    }
+  ]
+}
